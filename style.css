@@ -1,0 +1,27 @@
+
+body{
+    text-align: center;
+}
+
+.button{
+    height: 40px;
+    width: 140px;
+    border-color: red;
+    color: yellow;
+}
+
+.dark{
+    background-color: black;
+    color: rgb(160, 206, 246);
+}
+
+.light{
+    background-color: aliceblue;
+    color: black;
+}
+
+button:hover{
+    background-color: yellow;
+    color: red;
+    cursor: pointer;
+}
